@@ -125,14 +125,14 @@ def initialize_pieces():
     ]
     shapes_board2 = [
         ["B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao"],
+        ["B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao", "B-peao"],
         ["", "", "", "", "", "", "", "", "", ""],
         ["", "", "", "", "", "", "", "", "", ""],
         ["", "", "", "", "", "", "", "", "", ""],
         ["", "", "", "", "", "", "", "", "", ""],
         ["", "", "", "", "", "", "", "", "", ""],
         ["", "", "", "", "", "", "", "", "", ""],
-        ["", "", "", "", "", "", "", "", "", ""],
-        ["", "", "", "", "", "", "", "", "", ""],
+        ["P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao"],
         ["P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao", "P-peao"],
     ]
     shapes_board3 = [        
